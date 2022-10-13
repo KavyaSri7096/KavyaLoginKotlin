@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KavyaLoginKotlin</string>
+    <string name="welcome">Hi %s\n</string>
+</resources>
